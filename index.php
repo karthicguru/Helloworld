@@ -1,4 +1,4 @@
 <?php 
 echo 'LinGo on Git';
-echo 'testing bash';
+echo 'testing bash'teingi;:wq
 ?>
